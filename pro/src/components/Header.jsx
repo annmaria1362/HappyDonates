@@ -8,7 +8,6 @@ const Header = () => {
     <>
         <header>
           <div className="logo">HappyDonates</div>
-          <div className='nav-container'>
           <nav>
             <Link to="/">Home</Link>
             <div className="dropdown">
@@ -26,7 +25,6 @@ const Header = () => {
           <div className="icons">
           <a href="#"><i className="fas fa-search"></i></a>
           <Link to="/profile"><i className="fas fa-user"></i></Link>
-          </div>
           </div>
         </header>
     </>

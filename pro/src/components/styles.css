@@ -23,14 +23,13 @@
       font-size: 24px;
       font-weight: bold;
       color: #a87d7a;
-      flex: 1; /* Push the logo to the left */
     }
     nav {
       /*flex: 2; /* Center navigation links */
       display: flex;
       /*justify-content: center; /* Center the navigation links */
       gap: 20px; /* Space between navigation links */
-      margin-right: 600px;
+      
     }
     nav a {
       text-decoration: none;
@@ -203,6 +202,7 @@
     body {
       font-family: Arial, sans-serif;
       background-color: #f9f9f9;
+
     }
 
     /* Header */
@@ -318,6 +318,7 @@
     body {
       font-family: Arial, sans-serif;
       background-color: #f9f9f9;
+
     }
 
     /* Header */
