@@ -13,7 +13,7 @@ const Home = () => {
           alt="Hero Banner"
         />
         <div className="overlay">
-          <h1>Join Us for Creating a Better<br></br> Tomorrow</h1>
+          <h1>Join Us for Creating a Better Tomorrow</h1>
           <a href="#">Know More</a>
         </div>
       </section>

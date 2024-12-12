@@ -86,6 +86,21 @@
       display: block;
     }
 
+    .signup-button {
+          background-color: #a87d7a;
+          color: white;
+          padding: 8px 15px;
+          font-size: 0.9rem;
+          border: none;
+          border-radius: 5px;
+          text-decoration: none;
+          transition: background-color 0.3s;
+        }
+
+        .signup-button:hover {
+          background-color: #8b5f5d;
+        }
+
     /* Hero Section */
     .hero {
       position: relative;
